@@ -1,0 +1,21 @@
+{
+  "crossoverRate": "0.6",
+  "crossover": "Linear Order Crossover",
+  "instance": "eil51.tsp",
+  "generations": "300",
+  "selectionParameters": "2",
+  "structure": "OLMS",
+  "totalGenerations": "1000000",
+  "population": "Population by Problem",
+  "membranes": "5",
+  "mutation": "Inversion",
+  "sendOutRule": "Proportional",
+  "tests": "1",
+  "problem": "TSP",
+  "selection": "Tournament",
+  "populationParameters": "10",
+  "mutationRate": "0.1",
+  "populationSize": "10",
+  "sendInRule": "Distributive",
+  "replacement": "Steady State"
+}

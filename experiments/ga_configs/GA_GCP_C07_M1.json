@@ -1,0 +1,11 @@
+{
+  "crossoverRate": "0.7",
+  "crossover": "Crossover N",
+  "population": "Population by Constant",
+  "mutation": "Dynamic GCP",
+  "selection": "Dynamic GCP",
+  "populationParameters": "50",
+  "mutationRate": "1.0",
+  "populationSize": "50",
+  "replacement": "Random Half Generational"
+}

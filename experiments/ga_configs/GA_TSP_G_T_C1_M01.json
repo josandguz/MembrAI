@@ -1,0 +1,12 @@
+{
+  "crossoverRate": "1.0",
+  "crossover": "Linear Order Crossover",
+  "selectionParameters": "2",
+  "population": "Population by Problem",
+  "mutation": "Inversion",
+  "selection": "Tournament",
+  "populationParameters": "10",
+  "mutationRate": "0.1",
+  "populationSize": "10",
+  "replacement": "Generational"
+}

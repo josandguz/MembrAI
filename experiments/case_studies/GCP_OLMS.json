@@ -1,0 +1,21 @@
+{
+  "crossoverRate": "1.0",
+  "crossover": "Crossover N",
+  "instance": "queen8_8.col",
+  "color": "9",
+  "generations": "100",
+  "structure": "OLMS",
+  "totalGenerations": "20000",
+  "population": "Population by Constant",
+  "membranes": "5",
+  "mutation": "Dynamic GCP",
+  "sendOutRule": "Proportional",
+  "tests": "1",
+  "problem": "GCP",
+  "selection": "Dynamic GCP",
+  "populationParameters": "50",
+  "mutationRate": "1.0",
+  "populationSize": "50",
+  "sendInRule": "Distributive",
+  "replacement": "Random Half Generational"
+}
